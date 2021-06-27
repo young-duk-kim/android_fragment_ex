@@ -1,0 +1,2 @@
+rootProject.name = "flagment_ex_android"
+include ':app'
